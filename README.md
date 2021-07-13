@@ -1,6 +1,6 @@
 👋 Hi, I’m @rzvl
 
-🌱 I’m currently learning CSS
+🌱 I’m currently learning JavaScript
 
 
 <!---
